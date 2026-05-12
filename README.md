@@ -6,7 +6,7 @@
 
 *Studying at UNINTER · Based in Brazil 🇧🇷*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasper-ramos-9b9698131)
 [![GitHub followers](https://img.shields.io/github/followers/jasperusz?style=for-the-badge&color=238636&labelColor=1a1a2e)](https://github.com/jasperusz)
 
 </div>
@@ -22,8 +22,8 @@ jasper = {
     "also_know":          ["JavaScript", "HTML/CSS"],
     "focus":              ["Data analysis", "Automation", "Machine Learning"],
     "learning_now":       ["Machine Learning", "Flask", "SQL"],
-    "goal":               "Land my first dev internship 🚀",
-    "hobbies":            ["Gaming 🎮", "Indie RPG Development", "Pixel Art 🎨"]
+    "goal":               "Land my first dev internship",
+    "hobbies":            ["Gaming", "Indie RPG Development", "Pixel Art"]
 }
 ```
 
@@ -33,25 +33,19 @@ jasper = {
 
 **Main Language**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
 **Also know**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Also know](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,ps)](https://skillicons.dev)
 
 **Libraries & APIs**
 
-![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-orange?style=for-the-badge)
+[![Libraries](https://skillicons.dev/icons?i=pytorch,flask,django,sqlite)](https://skillicons.dev)
 
 ---
 
@@ -104,6 +98,6 @@ jasper = {
 
 *Open to internship opportunities — feel free to reach out!*
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasper-ramos-9b9698131)
 
 </div>
