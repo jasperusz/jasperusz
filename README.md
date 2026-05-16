@@ -52,14 +52,14 @@ jasper = {
 ## 🚀 Portfolio Projects
 
 ### 🌦️ [Weather Dashboard](https://github.com/jasperusz/weather-dashboard)
-> Real-time weather data fetched from OpenWeatherMap API — displays temperature, humidity, and wind speed for any city.
+> Real-time weather data fetched from OpenWeatherMap API: displays temperature, humidity, and wind speed for any city.
 
 `Python` · `Requests` · `OpenWeatherMap API`
 
 ---
 
 ### ⚽ [Brasileirão Stats](https://github.com/jasperusz/brasileirao-stats)
-> Data analysis and visualization of the Brazilian football championship — tables, stats, and trends.
+> Data analysis and visualization of the Brazilian football championship: tables, stats, and trends.
 
 `Python` · `Pandas` · `Data Analysis`
 
